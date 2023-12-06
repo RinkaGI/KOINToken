@@ -1,0 +1,6 @@
+Koin, Koin
+
+mintable, burnable, pausable, votes, ownable
+
+how to earn: mining (minting) etc...
+address: 0xECcd48e7B5ff8c211663B5718145b4cA19b2362C
